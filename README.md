@@ -1,2 +1,0 @@
-# HackerNews_WebApp_forBorschStudio
-Created with CodeSandbox
